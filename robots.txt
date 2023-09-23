@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://weihua9217.github.io/sitemap.xml
+Sitemap: https://weihua9217.github.io//sitemap.xml
