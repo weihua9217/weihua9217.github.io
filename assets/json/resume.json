@@ -3,7 +3,7 @@
     "name": "WeiHua Lee",
     "label": "Ph.D Student",
     "image": "",
-    "email": "weihua9217@gmail.com",
+    "email": "weihua9217[@]gmail.com",
     "phone": "",
     "url": "https://weihua9217.github.io/",
     "summary": "",
@@ -22,40 +22,34 @@
       }
     ]
   },
-  "work": [
-    {
-      "name": "",
-      "position": "",
-      "url": "",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        ""
-      ]
-    }
-  ],
+  
   "volunteer": [],
   "education": [
     {
-      "institution": "",
-      "url": "",
-      "area": "",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "",
-      "score": "",
-      "courses": [
-        ""
-      ]
+      "institution": "National Taiwan University",
+      "url": "https://imp.iis.sinica.edu.tw/",
+      "area": "Taipei, Taiwan",
+      "studyType": "Ph.D",
+      "startDate": "2023",
+      "endDate": "Present",
+      "score": "4"
+    },
+    {
+      "institution": "National Chengchi University",
+      "url": "https://www.cs.nccu.edu.tw/~ytpeng/",
+      "area": "Taipei, Taiwan",
+      "studyType": "Master",
+      "startDate": "2021",
+      "endDate": "2023"
     }
   ],
   "awards": [
     {
-      "title": "",
-      "date": "",
-      "awarder": "",
-      "summary": ""
+      "title": "AICup2021- Ministry of Education Artificial Intelligence Cup Award.",
+      "url": "https://www.aicup.tw/ai-cup-2021",
+      "date": "2022-03-07",
+      "awarder": "3rd place",
+      "summary": "We achieved the third place in the competition, which focused on scene text detection and recognition."
     }
   ],
   "certificates": [],
