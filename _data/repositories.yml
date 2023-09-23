@@ -1,9 +1,8 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - weihua9217
 
 github_repos:
-  - alshedivat/al-folio
+  - JasonHippo/Scene_text_detection_and_recognition
   - twbs/bootstrap
   - jekyll/jekyll
   - jquery/jquery
