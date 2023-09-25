@@ -2,7 +2,7 @@
 layout: page
 title: teaching
 permalink: /teaching/
-description: A growing collection of your cool projects.
+description:
 nav: true
 horizontal: false
 ---
